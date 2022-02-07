@@ -6,7 +6,7 @@
 // Change C
 void decide() {
     if ('A' != 'a') {
-        print('A is not same with a');
+        print('A is not same with a')
     }
 }
 
