@@ -11,7 +11,14 @@ void decide() {
     }
 }
 
+<<<<<<< HEAD
 /**
  * It is the main branch
  * 
  */
+=======
+/** 
+This is the first branch versa version
+*/ 
+decide();
+>>>>>>> versa
