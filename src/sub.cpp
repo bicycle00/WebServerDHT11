@@ -7,6 +7,7 @@
 void decide() {
     if ('A' != 'a') {
         print('A is not same with a')
+        print('B is not connected with this decide function');
     }
 }
 
